@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <ThreadForm>8</ThreadForm>
+  <Name>SVL Thread</Name>
+  <CustomName>SVL Thread</CustomName>
+  <Unit>mm</Unit>
+  <Angle>90</Angle>
+  <SortOrder>12</SortOrder>
+  <ThreadSize>
+    <Size>18.00</Size>
+    <Designation>
+      <ThreadDesignation>SVL 15</ThreadDesignation>
+      <CTD>SVL 15</CTD>
+      <Pitch>3.00</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>18.00</MajorDia>
+        <PitchDia>17.00</PitchDia>
+        <MinorDia>16.00</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>18.50</MajorDia>
+        <PitchDia>17.50</PitchDia>
+        <MinorDia>16.50</MinorDia>
+        <TapDrill>16.40</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
